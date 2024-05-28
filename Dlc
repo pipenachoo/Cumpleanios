@@ -1,0 +1,14 @@
+<cabeza>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento</título>
+    <title>Cumpleaños de Felipe Mendez</title>
+
+    <link rel="hoja de estilo" href="me_perdonas.css">
+
+@@ -27,4 +27,4 @@ <h1 id="1">Me Perdonas</h1>
+
+    <script src="me_perdonas.js"></script>
+</cuerpo>
+</HTML>
+</HTML>
